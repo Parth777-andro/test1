@@ -22,7 +22,7 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/portrait/frame20.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf1.webp",
+     "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf2.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf3.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Diwali%20Photo%20Frames/landscape/lf4.webp",
