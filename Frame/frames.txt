@@ -8,8 +8,8 @@
     ],
   "landscape":[
      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
-       "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
-         "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp"
+       "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_1.webp",
+         "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_2.webp"
      
     ]
 }
