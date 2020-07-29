@@ -2,8 +2,8 @@
   "portrait":[
   "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
     "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
-      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
-        "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp"
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp"
+      
     
     ],
   "landscape":[
