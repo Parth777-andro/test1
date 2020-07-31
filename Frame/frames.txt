@@ -56,7 +56,8 @@
        "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/image_21.webp",
         "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/image_22.webp",
        "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/image_23.webp",
-       "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/image_24.webp"
+       "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/image_24.webp",
+       "https://www.fonewalls.com/wp-content/uploads/1080x1920-Background-HD-Wallpaper-403.jpg"
        
        
     
