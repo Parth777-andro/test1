@@ -2,10 +2,34 @@
   "portrait":[
   "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame1.png",
     "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame2.png",
-      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame3.png"
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame3.png",
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame4.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame5.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame6.png",
+"https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame7.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame8.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame9.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame10.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame11.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame12.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame13.png",
+
+    "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame14.png",
+
+      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame15.png"
+
       
+
     
-    ],
+],
   "landscape":[
     
      "https://raw.githubusercontent.com/Parth777-andro/RakhiF/master/Pic/frame_0.webp",
